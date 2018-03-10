@@ -14,5 +14,6 @@
  
  Versione Unity3D utilizzata: __2017.3.1f1__
  
- #### Versione Gioco
+ ## Versione Gioco
+ 
  0.0.1 creato repo+readme
