@@ -10,7 +10,7 @@
 
  ## Piani futuri
  [Trello](https://trello.com/b/7hKsHf4a/gioco-procione)
-
+ per unirsi basta chiedere a cornetti
 
  ## Come collaborare
  
